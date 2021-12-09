@@ -1,2 +1,2 @@
 # LerbPack
-Minecraft resource pack mashup made for 1.17.1 anarchy
+Minecraft resource pack mashup made for 1.18 anarchy and not just that.
